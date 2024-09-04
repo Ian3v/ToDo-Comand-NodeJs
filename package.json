@@ -1,0 +1,16 @@
+{
+  "name": "3-todocomant",
+  "version": "1.0.0",
+  "description": "Todo con Node",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon app.js",
+    "start": "node app.js"
+  },
+  "author": "Chriestan",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.3.0"
+  }
+}
